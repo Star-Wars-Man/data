@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Imperial Star Destroyer",
+        "type": "Capital Ship",
+        "weapons": [
+            "Turbolaser batteries",
+            "Ion cannons",
+            "Tractor beam projectors"
+        ]
+    },
+    {
+        "name": "Super Star Destroyer (Executor-class)",
+        "type": "Super Capital Ship",
+        "weapons": [
+            "Heavy turbolaser batteries",
+            "Ion cannons",
+            "Tractor beam projectors"
+        ]
+    },
+    {
+        "name": "TIE Fighter",
+        "type": "Starfighter",
+        "weapons": [
+            "Laser cannons"
+        ]
+    },
+    {
+        "name": "TIE Interceptor",
+        "type": "Starfighter",
+        "weapons": [
+            "Laser cannons"
+        ]
+    },
+    {
+        "name": "TIE Bomber",
+        "type": "Bomber",
+        "weapons": [
+            "Laser cannons",
+            "Proton bombs",
+            "Proton torpedoes"
+        ]
+    },
+    {
+        "name": "TIE Advanced x1",
+        "type": "Starfighter",
+        "weapons": [
+            "Laser cannons",
+            "Cluster missiles"
+        ]
+    },
+    {
+        "name": "TIE Defender",
+        "type": "Starfighter",
+        "weapons": [
+            "Laser cannons",
+            "Ion cannons",
+            "Concussion missiles"
+        ]
+    },
+    {
+        "name": "Lambda-class T-4a Shuttle",
+        "type": "Shuttle",
+        "weapons": [
+            "Laser cannons"
+        ]
+    },
+    {
+        "name": "Imperial Landing Craft (Sentinel-class)",
+        "type": "Landing Craft",
+        "weapons": [
+            "Laser cannons",
+            "Blaster cannons"
+        ]
+    },
+    {
+        "name": "Gozanti-class Cruiser",
+        "type": "Light Cruiser",
+        "weapons": [
+            "Laser cannons"
+        ]
+    },
+    {
+        "name": "Arquitens-class Light Cruiser",
+        "type": "Light Cruiser",
+        "weapons": [
+            "Turbolasers",
+            "Laser cannons"
+        ]
+    },
+    {
+        "name": "Victory-class Star Destroyer",
+        "type": "Capital Ship",
+        "weapons": [
+            "Turbolaser batteries",
+            "Ion cannons",
+            "Concussion missile launchers"
+        ]
+    },
+    {
+        "name": "Interdictor-class Star Destroyer",
+        "type": "Capital Ship",
+        "weapons": [
+            "Turbolaser batteries",
+            "Ion cannons",
+            "Gravity well projectors"
+        ]
+    },
+    {
+        "name": "Imperial Dreadnought (Secutor-class)",
+        "type": "Dreadnought",
+        "weapons": [
+            "Turbolaser batteries",
+            "Ion cannons"
+        ]
+    },
+    {
+        "name": "Imperial Escort Carrier",
+        "type": "Carrier",
+        "weapons": [
+            "Laser cannons",
+            "Point-defense cannons"
+        ]
+    }
+]
