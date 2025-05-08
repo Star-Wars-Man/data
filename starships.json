@@ -120,5 +120,15 @@
             "Laser cannons",
             "Point-defense cannons"
         ]
+    },
+    {
+        "name": "Death Star",
+        "type": "Battle Station",
+        "weapons": [
+            "Superlaser",
+            "Turbolaser batteries",
+            "Ion cannons",
+            "Tractor beam projectors"
+        ]
     }
 ]
