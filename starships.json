@@ -6,7 +6,8 @@
             "Turbolaser batteries",
             "Ion cannons",
             "Tractor beam projectors"
-        ]
+        ],
+        "power": 90
     },
     {
         "name": "Super Star Destroyer (Executor-class)",
@@ -15,21 +16,24 @@
             "Heavy turbolaser batteries",
             "Ion cannons",
             "Tractor beam projectors"
-        ]
+        ],
+        "power": 98
     },
     {
         "name": "TIE Fighter",
         "type": "Starfighter",
         "weapons": [
             "Laser cannons"
-        ]
+        ],
+        "power": 20
     },
     {
         "name": "TIE Interceptor",
         "type": "Starfighter",
         "weapons": [
             "Laser cannons"
-        ]
+        ],
+        "power": 25
     },
     {
         "name": "TIE Bomber",
@@ -38,7 +42,8 @@
             "Laser cannons",
             "Proton bombs",
             "Proton torpedoes"
-        ]
+        ],
+        "power": 30
     },
     {
         "name": "TIE Advanced x1",
@@ -46,7 +51,8 @@
         "weapons": [
             "Laser cannons",
             "Cluster missiles"
-        ]
+        ],
+        "power": 35
     },
     {
         "name": "TIE Defender",
@@ -55,14 +61,16 @@
             "Laser cannons",
             "Ion cannons",
             "Concussion missiles"
-        ]
+        ],
+        "power": 40
     },
     {
         "name": "Lambda-class T-4a Shuttle",
         "type": "Shuttle",
         "weapons": [
             "Laser cannons"
-        ]
+        ],
+        "power": 15
     },
     {
         "name": "Imperial Landing Craft (Sentinel-class)",
@@ -70,14 +78,16 @@
         "weapons": [
             "Laser cannons",
             "Blaster cannons"
-        ]
+        ],
+        "power": 18
     },
     {
         "name": "Gozanti-class Cruiser",
         "type": "Light Cruiser",
         "weapons": [
             "Laser cannons"
-        ]
+        ],
+        "power": 28
     },
     {
         "name": "Arquitens-class Light Cruiser",
@@ -85,7 +95,8 @@
         "weapons": [
             "Turbolasers",
             "Laser cannons"
-        ]
+        ],
+        "power": 32
     },
     {
         "name": "Victory-class Star Destroyer",
@@ -94,7 +105,8 @@
             "Turbolaser batteries",
             "Ion cannons",
             "Concussion missile launchers"
-        ]
+        ],
+        "power": 80
     },
     {
         "name": "Interdictor-class Star Destroyer",
@@ -103,7 +115,8 @@
             "Turbolaser batteries",
             "Ion cannons",
             "Gravity well projectors"
-        ]
+        ],
+        "power": 75
     },
     {
         "name": "Imperial Dreadnought (Secutor-class)",
@@ -111,7 +124,8 @@
         "weapons": [
             "Turbolaser batteries",
             "Ion cannons"
-        ]
+        ],
+        "power": 85
     },
     {
         "name": "Imperial Escort Carrier",
@@ -119,7 +133,8 @@
         "weapons": [
             "Laser cannons",
             "Point-defense cannons"
-        ]
+        ],
+        "power": 50
     },
     {
         "name": "Death Star",
@@ -129,6 +144,7 @@
             "Turbolaser batteries",
             "Ion cannons",
             "Tractor beam projectors"
-        ]
+        ],
+        "power": 100
     }
 ]
